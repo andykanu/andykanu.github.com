@@ -1,7 +1,9 @@
 html {
 font-family: Roboto Arial;
 }
-
+body {
+text-align: center;
+}
 .pageTitle {
-color: #4c4c4c
+color: #4c4c4c;
 }
